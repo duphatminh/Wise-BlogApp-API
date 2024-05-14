@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PmlRQYo1OE95mtBO14kI9XkSkeUYAokewfL2wauW9xE=",
+  "Source": "WiseBlogApp.API",
+  "BasePath": "_content/WiseBlogApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
